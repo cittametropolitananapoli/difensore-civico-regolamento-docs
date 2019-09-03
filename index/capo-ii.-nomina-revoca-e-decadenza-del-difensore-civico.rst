@@ -1,8 +1,8 @@
 CAPO II. NOMINA, REVOCA E DECADENZA DEL DIFENSORE CIVICO
-========================================================
+--------------------------------------------------------
 
 Art 4. Requisiti per l'elezione del difensore civico
-====================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il Difensore civico è scelto tra cittadini con formazione
 giuridico-amministrativa, comprovata dal titolo di studio e
@@ -25,7 +25,7 @@ amministrazione, garantita da adeguata esperienza lavorativa
 nell’ambito della P.A. o nei rapporti professionali con la P.A.”.
 
 Art 5. Ineleggibilità e incompatibilità
-=======================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il Difensore civico deve possedere i requisiti di eleggibilità e di
 compatibilità previsti per la carica di consigliere comunale e
@@ -75,7 +75,7 @@ consorzi e istituzioni o aziende in cui essa è parte;
 j) l’essere ministro di culto.
 
 Art 6. Avviso pubblico per la nomina del Difensore civico
-=========================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il dirigente della struttura Supporto Organi Istituzionali,
 responsabile del procedimento, almeno tre mesi prima della scadenza del
@@ -102,7 +102,7 @@ notorio, attestanti il possesso dei requisiti richiesti, e corredate dal
 curriculum vitae.
 
 Art 7. Commissione per l’istruttoria
-====================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. L’istruttoria sulle istanze presentate sarà effettuata da una
 apposita commissione, composta dal dirigente della struttura competente,
@@ -117,7 +117,7 @@ al Sindaco – Presidente del Consiglio Metropolitano e al Segretario
 generale per gli adempimenti di competenza.
 
 Art 8. Nomina
-=============
+~~~~~~~~~~~~~
 
 1. Il Difensore Civico è eletto a scrutinio segreto dal Consiglio
 metropolitano con voto favorevole dei due terzi dei componenti il
@@ -136,7 +136,7 @@ alla nomina, previa verifica dei
 requisiti di legge.
 
 Art 9. Cessazione dalla carica
-==============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il difensore civico cessa dalla carica, oltre che per il compimento
 del periodo di durata previsto dallo statuto:
@@ -152,7 +152,7 @@ dell’Ente e delle quali il Consiglio metropolitano prende atto nella
 prima seduta utile
 
 Art 10. Revoca
-==============
+~~~~~~~~~~~~~~
 
 1. Il Difensore Civico può essere revocato per gravi violazioni di legge
 o per motivi connessi con il mancato esercizio delle sue funzioni ovvero
@@ -171,7 +171,7 @@ del giorno del primo Consiglio utile, ed è approvata con le maggioranze
 previste all’art. 8, comma 3 del presente Regolamento.
 
 Art 11. Decadenza
-=================
+~~~~~~~~~~~~~~~~~
 
 1. L'incompatibilità, originaria o sopravvenuta, di cui all’art. 5 del
 presente regolamento, comporta la

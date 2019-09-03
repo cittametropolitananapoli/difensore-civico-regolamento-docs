@@ -1,8 +1,8 @@
 CAPO IV. COMPETENZE ECONOMICHE
-==============================
+------------------------------
 
 Art 20. Indennità e spese.
-==========================
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Al difensore civico metropolitano spettano l'indennità di funzione
 pari al 50% dello stipendio tabellare previsto per i dirigenti degli

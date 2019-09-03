@@ -1,8 +1,8 @@
 CAPO III. ATTIVITÀ E RAPPORTI CON L’ENTE
-========================================
+----------------------------------------
 
 Art 12. Funzioni
-================
+~~~~~~~~~~~~~~~~
 
 1. Il Difensore civico, su istanza degli interessati o di propria
 iniziativa, interviene per la tutela non giurisdizionale dei cittadini,
@@ -25,7 +25,7 @@ spettano agli organi e agli uffici dell’Ente.
 3. Il servizio del Difensore Civico è gratuito per i cittadini.
 
 Art 13. Diritto d’accesso
-=========================
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il difensore civico per l'esercizio delle sue funzioni, su istanza di
 terzi o d’ufficio, ha diritto:
@@ -60,7 +60,7 @@ precedente comma.
 cui sia venuto a conoscenza anche dopo la cessazione della carica.
 
 Art 14. Provvedimenti
-=====================
+~~~~~~~~~~~~~~~~~~~~~
 
 1. Qualora il difensore civico rilevi ostacoli ingiustificati, ritardi
 nella comunicazione delle informazioni e degli atti richiesti, rifiuto
@@ -71,7 +71,7 @@ al Dirigente Direzione Supporto Organi Istituzionali e all’Organismo di
 valutazione.
 
 Art 15. Rapporti con il Consiglio metropolitano
-===============================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il difensore civico presenta al Sindaco, al Consiglio Metropolitano e
 al Segretario generale - Responsabile Prevenzione Corruzione e
@@ -97,7 +97,7 @@ svolgimento dell’attività amministrativa.
 Consiglio Metropolitano nella prima seduta utile.
 
 Art 16. Disfunzioni e irregolarità - Adempimenti
-================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il difensore civico informa il Sindaco, il Segretario generale e, se
 nominato, il Direttore generale, nonché l’OIV delle disfunzioni ed
@@ -121,7 +121,7 @@ possesso, occorrenti al difensore civico per l'esercizio delle
 sue funzioni, secondo quanto previsto dal Regolamento sull’Accesso.
 
 Art 17. Sede ed attrezzature
-============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. L'ufficio del difensore civico ha sede presso una delle sedi
 operative della Città metropolitana in locali adeguati alle funzioni da
@@ -131,7 +131,7 @@ svolgere.
 funzionamento.
 
 Art 18. Dotazione di personale
-==============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Con atto del Sindaco metropolitano, quale organo esecutivo, si
 provvede alla istituzione dell'ufficio e la struttura in cui è
@@ -145,7 +145,7 @@ funzionalmente dipendente dal medesimo ed è tenuto al segreto d'ufficio.
 3. È esclusa la possibilità di avvalersi di personale esterno all'ente.
 
 Art 19. Informazione ai cittadini
-=================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. La Città metropolitana provvede ad informare adeguatamente i
 cittadini e gli altri soggetti interessati dell’attivazione

@@ -1,8 +1,8 @@
 CAPO V. DIFENSORE CIVICO TERRITORIALE
-=====================================
+-------------------------------------
 
 Art 21. Convenzioni con i comuni.
-=================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. I comuni ricompresi nel territorio metropolitano, mediante
 convenzione, di cui al Capo V - art. 30 del TUEL, con la Città
@@ -14,7 +14,7 @@ Civico comunale al Difensore Civico metropolitano.
 difensore civico comunale. Tali funzioni non possono essere rifiutate.”.
 
 Art 22. Funzioni del Difensore civico territoriale
-==================================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il difensore civico territoriale è competente a garantire
 l’imparzialità e il buon andamento della pubblica amministrazione,
@@ -30,7 +30,7 @@ provvedimenti, i rapporti con il Consiglio comunale e i rapporti con il
 Segretario comunale o generale.
 
 Art 23. Rimborsi
-================
+~~~~~~~~~~~~~~~~
 
 1. La convenzione dovrà prevedere il trattamento economico a favore del
 Difensore Civico territoriale integrato nella misura massima del 25%

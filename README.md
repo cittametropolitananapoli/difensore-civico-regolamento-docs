@@ -1,4 +1,4 @@
-Regolamento in materia di accesso documentale, accesso civico semplice ed accesso civico generalizzato
-======================================================================================================
+Regolamento Difensore Civico Città Metropolitana di Napoli 
+==========================================================
 
-Questo repository contiene il Regolamento in materia di accesso documentale, accesso civico semplice ed accesso civico generalizzato
+Questo repository contiene il Regolamento dell'ufficio del Difensore civico della Città Metropolitana di Napoli

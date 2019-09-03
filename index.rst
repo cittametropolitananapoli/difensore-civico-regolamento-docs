@@ -1,7 +1,9 @@
 Regolamento Difensore Civico
 ----------------------------
 
-|logo_cmna| *Città Metropolitana di Napoli*
+|logo_cmna| 
+
+*Città Metropolitana di Napoli*
 
 .. highlights::  
 
@@ -11,7 +13,7 @@ luglio 2018
 
 :Proprietà: Città Metropolitana di Napoli
 :Publisher: Ufficio Relazioni con il Pubblico
-:Licenza: |cc-zero|
+:Licenza: |cc-by|
  
 .. toctree::
   :maxdepth: 3
@@ -25,6 +27,5 @@ luglio 2018
 .. |logo_cmna| image:: assets/images/logo_cmna.png
    :width: 0.6in
    :height: 0.79097in
-.. |cc-zero| image:: assets/images/cc-zero.png
-
+.. |cc-by| image:: assets/images/cc-by.png
 

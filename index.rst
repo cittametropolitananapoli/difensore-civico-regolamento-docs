@@ -19,10 +19,10 @@ luglio 2018
   :maxdepth: 3
   :numbered:
   
-  capo-i.-disposizioni-generali.rst
-  capo-ii.-nomina-revoca-e-decadenza-del-difensore-civico.rst
-  capo-iv.-competenze-economiche.rst
-  capo-v.-difensore-civico-territoriale.rst 
+  index/capo-i.-disposizioni-generali.rst
+  index/capo-ii.-nomina-revoca-e-decadenza-del-difensore-civico.rst
+  index/capo-iv.-competenze-economiche.rst
+  index/capo-v.-difensore-civico-territoriale.rst 
 
 .. |logo_cmna| image:: assets/images/logo_cmna.png
    :width: 0.6in

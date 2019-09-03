@@ -21,6 +21,7 @@ luglio 2018
   
   index/capo-i.-disposizioni-generali.rst
   index/capo-ii.-nomina-revoca-e-decadenza-del-difensore-civico.rst
+  index/capo-iii.-attività-e-rapporti-con-lente.rst
   index/capo-iv.-competenze-economiche.rst
   index/capo-v.-difensore-civico-territoriale.rst 
 

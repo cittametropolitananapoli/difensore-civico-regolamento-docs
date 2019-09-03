@@ -2,7 +2,7 @@ CAPO I. DISPOSIZIONI GENERALI
 -----------------------------
 
 Art 1. Disposizioni generali
-============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il presente Regolamento, redatto ai sensi delle leggi vigenti e
 dell'articolo 47 dello Statuto della Città metropolitana di Napoli,
@@ -40,7 +40,7 @@ disfunzioni, le carenze e i
 ritardi dell’amministrazione nei confronti dei cittadini.
 
 Art 2. Ambiti di competenza - Esclusioni
-========================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Non appartengono alla competenza del Difensore civico le azioni e le
 controversie, comunque promosse o insorte, da concessionari ed
@@ -58,7 +58,7 @@ intervenuta l’autorità giudiziaria.
 enti, il Difensore civico ne informa il richiedente.
 
 Art 3. Durata della carica
-==========================
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Il Difensore Civico dura in carica 5 anni e non oltre la durata del
 Consiglio metropolitano, può essere rieletto una sola volta.
